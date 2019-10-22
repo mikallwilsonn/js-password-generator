@@ -1,2 +1,2 @@
 # js-password-generator
-JavaScript based password generator.
+Javascript based password generator.
